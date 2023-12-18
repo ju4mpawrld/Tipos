@@ -1,7 +1,7 @@
 Nombre_cancion = "Money and Vibes"
 Letra_cancion = """
 just need money and vibes
-Don't need none of that toxic shit
+Don't need none of that toxic sh1t
 My social battery gone, I gotta stay out the mix
 I'm tryin' to be so rich, I put the l in lit
 Call you and say, where you at?
